@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'Deep Roots Community Editing Documentation'
-subtitle: 'Making the editing process as effective as possible…'
+title: 'Deep Roots Editing'
+subtitle: 'Making the editing process as effective as possible!'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
