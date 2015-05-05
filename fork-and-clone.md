@@ -2,7 +2,7 @@
 title       : Getting Set Up on Github
 layout      : page
 category    : doc
-permalink   : /github-setup/
+permalink   : /fork-and-clone/
 ---
 Github is a great tool for collaborating with people online. Once you get used to it it's super simple, but there is a bit of a learning curve. I wanetd to make it as easy as possible for everyone to get started, so I decided to make a tutorial so I could walk through each step.
 
