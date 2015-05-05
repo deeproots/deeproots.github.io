@@ -3,9 +3,9 @@ title       : Introduction to Github
 layout      : page
 permalink   : /github-intro/
 ---
-When I was first exposed to Github, I was completely confused as to the value. But now that I've become more comfortable with it, it's easy to see why companies from GE to Google use it to collaborative on projects.
+When I was first exposed to Github, I was completely confused as to what value it brought to the table. But now that I've become more comfortable with it, it's easy to see why companies from GE to Google use it to collaborative on projects, and why it's a great fit for something like the Deep Roots Library project.
 
-I wanted to write a quick overview and rationale behind using it for the Deep Roots project, because I know that the lingo is weird and the process a bit more complicated than you're probably used to. But it's the best solution for the project moving forward. 
+I wanted to give everyone a quick overview and rationale behind using Github because I know that the lingo is weird at first and the process a bit more complicated than you're probably used to. But better a small learning curve now than a million headaches with different versions down the road! 
 
 Github is, by their own definition, "the best place to share code with friends, co-workers, classmates, and complete strangers." It's primarily in the programming world for code, especially in open source projects, but it's also being increasingly used for other shared and collaborative documents and information. 
 
