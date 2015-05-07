@@ -5,7 +5,7 @@ permalink   : /markdown-intro/
 ---
 All of the books we'll be editing together will be in: **Markdown**. What's Markdown? Good question! [Markdown](https://help.github.com/articles/markdown-basics/) is a very simple format that allows us to have text that is both (a) very readable, and (b) easily convertible to a multitude of different formats. 
 
-You can [go here](https://help.github.com/articles/markdown-basics/) to read about the basics of Markdown, but to give you some examples: to make something italics you put one asterisk on either side, like \**this*\*. To make it bold, \*\***two asterisks**\*\*. And it goes on from there - super simple stuff that quickly becomes second nature.
+You can [go here](https://help.github.com/articles/markdown-basics/) to read about the basics of Markdown, but to give you some examples: to make something italics you put one asterisk on either side, like \**this*\*. To make it bold, \*\***two asterisks**\*\*. A blank line between each paragraph. And it goes on from there - super simple stuff that quickly becomes second nature. 
 
 And probably the most important thing for our purposes, headings in a Markdown file are done like this:
 
