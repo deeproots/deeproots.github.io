@@ -21,6 +21,8 @@ When Vim (and it's predecessor, vi) was created, the mouse wasn't around - the k
 
 Let me give you an example: here's a page from *When the Song Begins* by J.R. Miller, where the OCR engine mistook a page break for a new paragraph - this text needs to be joined back together.
 
+![](/assets/img/paragraph-error-page.png)
+
 In a **more traditional text editor**, I would grab my mouse, move the cursor to the bottom paragraph, hopefully hitting on just the right spot, then drag to highlight the extra line, hopefully not grabbing more or less than I intended. Then hit backspace to delete it, check to make sure it looks right, then moving on.
 
 **In Vim**, though, I'm strolling through the text using the down arrow with my right hand, and scrolling the original PDF pages at the same time with my left hand on the trackpad. I notice the error, my cursor is already in the right spot. I hit A to go to the beginning of the line, then backspace 3x and I'm done. 
