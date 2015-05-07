@@ -13,7 +13,7 @@ The satisfying irony of using an old text editor to edit old books aside, this i
 
 As I've gotten more comfortable with it more reasons have emerged, but I'll just give you **two reasons for my love for Vim…**
 
-#### 1. Everything is a keyboard shortuct. 
+### 1. Everything is a keyboard shortuct. 
 
 And what's a shortcut – it's a way to your desired destination faster!
 
@@ -29,7 +29,7 @@ I know it seems like not a big difference, but just like playing an instrument o
 
 (In full-on Billy Mays voice...) But WAIT, there's more!
 
-#### 2. It's ridiculously customizable.
+### 2. It's ridiculously customizable.
 
 The improvement above is helpful, but not enough to start using Vim. But here's the thing: the frequency varies from book to book, but that's one of the more common errors you'll see – it'll happen at least once in almost every book. Rather than typing `A`, then 3 backspaces, I can just create a custom keyboard shortcut to do it for me. 
 
@@ -41,7 +41,7 @@ So, back to the example. I'm scrolling along, and I see the error. Oops, those t
 
 Is that amazing or what? When I first discovered these customizations, I spontaneously I broke out in the Doxology! 😉I have shortcuts like these all programmed in for the most common problems you'll find in these books - and if you want to learn the intricacies of Vim, you'll the using them like a boss in no time at all.
 
-#### Vim Alternatives
+### Vim Alternatives
 
 If you don't feel like jumping into an entirely new text editor right now, I can completely understand and appreciate that. So here are a few alternatives…
 
