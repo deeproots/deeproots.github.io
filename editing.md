@@ -11,7 +11,7 @@ Truth be told, it's a gift from God that the books are in such a good shape by t
 
 ### My Setup
 
-I've mentioned this a couple times in the tutorials already, but here it is again for good measure - I find it most convenient to have both the original pages and the editable text open, at about a 40/60 or even 30/70 split respectively, as you can see below.. I've got the original pages of the book zoomed in just enough that I can see the entire text block of the page without scrolling, and I have the editable text a pretty big size so I'm not at all straining to details, like if something's  an apostrophe (`'`) or a backtick (`` ` ``)
+I've mentioned this a couple times in the tutorials already, but here it is again for good measure - I find it most convenient to have both the original pages and the editable text open, at about a 40/60 or even 30/70 split respectively, as you can see below. I've got the original pages of the book zoomed in just enough that I can see the entire text block of the page without scrolling, and I have the editable text a pretty big size so I'm not at all straining to details, like if something's  an apostrophe (`'`) or a backtick (`` ` ``)
 
 I start at the beginning and go through the book, scrolling through the text with my *right hand on the down arrow* and through the original pages with my *left hand on the trackpad or mouse.* I have found that this is the best way for me to work on the books - I can be analyzing the book text but always have the original book pages to compare.
 
@@ -21,11 +21,11 @@ We want to make sure that the paragraps in the new text match the paragraphs in 
 
 You might be surprised at the regular occurance of paragraph issues - it's a common problem. Sometimes you might go half a book without any, and then in one chapter there might be 5-6 messed up paragraphs.
 
-Also of note: **there are almost always paragraph problems when footnotes are present.** So if there are footnotes, be sure to check the paragraphs surrounding and make sure they are correct.
+Also of note: **there are almost always paragraph problems when footnotes are present.** So if there are [footnotes](/footnotes/), be sure to check the paragraphs surrounding and make sure they are correct.
 
 ### Problem Text
 
-OCR (Optical Character Recognition) is the process by which the text on the page images becomes text we can edit. Normally, it works exceptionally well, but it doesn't do well with change very often. There are a few things you'll notice cause problems for our text:
+OCR (Optical Character Recognition) is the process by which the text on the page images becomes text we can edit. Normally, it works extraordinarily well, but it doesn't do well with anything other than normal text. A few things you'll notice cause problems for our texts:
 
 -   Gothic Text
 -   Drop Caps 
@@ -34,11 +34,13 @@ OCR (Optical Character Recognition) is the process by which the text on the page
 -   Library stamps on the pages
 -   Random blots of ink.
 
-When these kinds of things occur in the orginal book, there *will* be issues to fix in the text, so be on the lookout. Here's an example, again from *Weekday Religion* by J.R. Miller. You'll see that somewhere along the way, one of the book's readers has highlighted a sentence by surrounding it with parenthesis - not a bad idea (unless it was a library book at the time!), but it does cause us some problems in the text, as seen in the screenshot.
+When you see these kinds of things in the orginal book, there *will* be issues to fix in the text, so be on the lookout!
+
+**Here's an example,** again from *Weekday Religion* by J.R. Miller. You'll see that somewhere along the way, one of the book's readers has highlighted a sentence by surrounding it with parenthesis - not a bad idea (unless it was a library book at the time!), but it does cause us some problems in the text, as seen in the screenshot.
 
 ![](/assets/img/markings-1.png)
 
-These are the kind of things that we're looking for in the books - random, non-reproducible things that only a human can fix. Another example would be where one kind of punctuation is mistaken for another, like this *very bold* semicolon is mistaken for an `I`. 
+These are the kind of things that we're looking for in the books - random, non-reproducible things that only a human can fix. Another example would be where one kind of punctuation is mistaken for another, like this *very bold* semicolon is mistaken for the letter `I`: 
 
 ![](/assets/img/markings-2.png)
 
