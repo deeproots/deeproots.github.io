@@ -11,7 +11,7 @@ Truth be told, it's a gift from God that the books are in such a good shape by t
 
 ### My Setup
 
-I've mentioned this a couple times in the tutorials already, but here it is again for good measure - I find it most convenient to have both the original pages and the editable text open, at about a 40/60 or even 30/70 split respectively. I've got the original pages of the book zoomed in just enough that I can see the entire text block of the page without scrolling, and I have the editable text a pretty big size so I'm not at all straining to see if something is a comma or a period, an apostrophe (`'`) or a backtick (```). 
+I've mentioned this a couple times in the tutorials already, but here it is again for good measure - I find it most convenient to have both the original pages and the editable text open, at about a 40/60 or even 30/70 split respectively. I've got the original pages of the book zoomed in just enough that I can see the entire text block of the page without scrolling, and I have the editable text a pretty big size so I'm not at all straining to see if something is a comma or a period, an apostrophe (`'`) or a backtick (`````). 
 
 I start at the beginning and go through the book, scrolling through the text with my *right hand on the down arrow* and through the original pages with my *left hand on the trackpad or mouse.* I have found that this is the best way for me to work on the books - I can be analyzing the book text but always have the original book pages to compare.
 
