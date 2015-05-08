@@ -33,7 +33,9 @@ So you're scrolling along, working your way through a book, when lo and behold, 
 5.  Rejoin the interuppted paragraph, if necessary.
 6.  Paste the footnote text.
 7.  Add the correct Markdown markup for the footnote.
-8.  Feel the satisfaction of a footnote well done.
+8.  Feel the satisfaction of a footnote well done!
+
+### Example:
 
 Let's work through it with an example. From *Workday Religion* by J.R. Miller, here's a footnote:
 
