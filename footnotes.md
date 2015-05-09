@@ -60,7 +60,7 @@ Now for **Step 6**, we paste back in the footnote text, below the now complete p
 
 ![](/assets/img/footnotes-4.png)
 
-Everything's almost in place - now all we need to is remove the original footnote marker in the text (the `*`) and replace it
+Everything's almost in place - now all we need to do is remove the original footnote marker in the text (the `*`) and replace it
 with the proper markup that matches what's in the text - **Step 7**. In this case, that'll be `[^1]:`. So the final product looks like this:
 
 ![](/assets/img/footnotes-5.png)
