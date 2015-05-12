@@ -7,10 +7,8 @@ In the course of editing these books, I've come up with a list of things that sh
 
 That's where what I've called "predetermined searches" come in - it's a list of searches that will always bring up problem areas that need to be looked at. 
 
-
-| Search          | Looking For…                                            |
-| -------------   | ------------------------------------------------------- |
-| `(\.|,|!|\?)\S` | Any punctuation without a space to its immediate right. |
+| A simple | table |
+| `(\.|,|!|\?)\S` | Any punctuation without a space to its immediate right.|
 
 And that's all!
 
