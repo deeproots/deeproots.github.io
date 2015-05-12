@@ -11,9 +11,9 @@ Search                   Looking For…
 --------                 -------------
 `(\.|,|!|\?)\S`          Any punctuation without a space to its right.
 
-| Search        | Looking For…  |
-| ------------- |:-------------:|
-| (\.|,|!|\?)\S | Any punctuation without a space to its immediate right. |
+| Search          | Looking For…                                            |
+| -------------   |:-------------------------------------------------------:|
+| `(\.|,|!|\?)\S` | Any punctuation without a space to its immediate right. |
 
 And that's all!
 
