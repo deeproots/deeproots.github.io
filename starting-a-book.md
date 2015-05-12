@@ -31,4 +31,4 @@ If you do this at the very beginning of the book process, it will be the biggest
 
 I currently use a tool called [Calibre](http://calibre-ebook.com) to convert the books from ePubs to plain text so that we can start the editing process. And for some reason in the transition, the preface of the book seems to be missing. I'm working on trying to track down this problem, but in the meantime, if you come across a book with a missing preface, the best (only) thing to do is go ahead and type up the missing part manually. :-(
 
-And now we have a book, most likely still with major issues… but at least the chapter headings are there, and its missing preface has been restored. Now onto the [main show](/editing/).
+And now we have a book, most likely still with major issues… but at least the chapter headings are there, and its missing preface has been restored. Now onto the [main show](/basic-editing/).
