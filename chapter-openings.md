@@ -7,7 +7,7 @@ Some authors begin every chapter with a specific Scripture, quote, or poem. We w
 
 ### General Syntax
 
-In the case of chapter openings, we're **breaking from the standard Markdown** that we're using most other places. Instead, we'll use some syntax from ConTeXt, the file format that we're using to create PDFs for download and print. 
+In the case of chapter openings, we're **breaking from the standard Markdown** that we're using most other places. Instead, we'll use some syntax from [ConTeXt](http://wiki.contextgarden.net/Main_Page), the file format that we're using to create PDFs for download and print. 
 
 *Abide in Christ* by Andrew Murray is a book where each chapter begins with a specific verse or two. We'll use it here as an illustration of how to handle it well.
 
