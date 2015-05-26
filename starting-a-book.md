@@ -3,9 +3,14 @@ title       : Starting a Book
 layout      : page
 permalink   : /starting-a-book/
 ---
-So when you pick a new book that you want to work on, here is the workflow I've found to work best.
+So you've forked and cloned the Deep Roots project, and found a book you want to work on. **Now what?** Well, here's the workflow that I've found to be best for me.
 
-To start with, I open the text of the book (the Markdown file) and the PDF of the original pages on my laptop screen, usually with the original book on the left and the text on the right. I find it most comfortable to split the screen at about 40/60 in favor of the text, because the majority of the time will be spent there - the original is just for reference and double checking.
+To start with, you'll notice that project is organized by author > book > files. When you open a book folder you'll see a few files: 
+-   `original.pdf` --- This is the images of the original book pages. You'll open this and refer to it often in editing the text.
+-   `book.txt` --- This is the editable, [Markdown](/markdown-intro/) version of the book.
+-   `metadata.yaml` --- This is the file that holds the metadata for the book. Usually it will already be complete and you probably won't need it anyway - it's more for the publishing process.
+
+The setup that works best for me is to have both the text of the book (the Markdown file) and the PDF of the original pages on my laptop screen, usually with the original book on the left and the text on the right. I find it most comfortable to split the screen at about 40/60 in favor of the text, because the majority of the time will be spent there - the original is just for reference and double checking.
 
 As you can see from the screenshots below, I find it helpful to keep the text fairly large, for a couple reasons: (a) it's easier on your eyes for long editing sessions, and (b) it's easier to spot the subtle issues, like punctutation errors or incorrect spacing.
 
