@@ -1,6 +1,6 @@
 ---
-layout  : default
-title   : Getting Started
+layout  : page
+title   : Welcome!
 ---
 First of all, thanks so much for your interest in helping to edit this great books from Christian history. In the midst of proofreading and formatting, forking repos and submitting pull requests, let us keep the main thing the main thing: we are **serving our brothers and sisters** in Christ all around the world by making this books available and accessible to them, with as few distractions (errors!) as possible!
 
