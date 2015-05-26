@@ -10,10 +10,15 @@ You can [go here](https://help.github.com/articles/markdown-basics/) to read abo
 And probably the most important thing for our purposes, headings in a Markdown file are done like this:
 
 # \# Header 1
+
 ## \#\# Header 2
+
 ### \#\#\# Header 3
+
 #### \#\#\#\# Header 4
+
 ##### \#\#\#\#\# Header 5
+
 ###### \#\#\#\#\#\# Header 6
 
 And it's as simple as that! Just start the heading line with the correct number of pound signs, and we're good to go. **Chapters will be first level headings** in the DRL books, so that, along with italics (and some special use cases like poems) are the most common things you'll see when you're editing the raw book text - book publishers in the 1800s (when most of our sources were printed) didn't use bold or have hyperlinks too often! 😉
