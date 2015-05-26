@@ -5,7 +5,8 @@ permalink   : /starting-a-book/
 ---
 So you've forked and cloned the Deep Roots project, and found a book you want to work on. **Now what?** Well, here's the workflow that I've found to be best for me.
 
-To start with, you'll notice that project is organized by author > book > files. When you open a book folder you'll see a few files: 
+To start with, you'll notice that project is organized by `author > book > files`. When you open a book folder you'll see a few files: 
+
 -   `original.pdf` --- This is the images of the original book pages. You'll open this and refer to it often in editing the text.
 -   `book.txt` --- This is the editable, [Markdown](/markdown-intro/) version of the book.
 -   `metadata.yaml` --- This is the file that holds the metadata for the book. Usually it will already be complete and you probably won't need it anyway - it's more for the publishing process.
