@@ -25,7 +25,7 @@ Let me give you an example: here's a page from *When the Song Begins* by J.R. Mi
 
 In a **more traditional text editor**, I would grab my mouse, move the cursor to the bottom paragraph, hopefully hitting on just the right spot, then drag to highlight the extra line, hopefully not grabbing more or less than I intended. Then hit backspace to delete it, check to make sure it looks right, then moving on.
 
-**In Vim**, though, I'm strolling through the text using the down arrow with my right hand, and scrolling the original PDF pages at the same time with my left hand on the trackpad. I notice the error, my cursor is already in the right spot. I hit A to go to the beginning of the line, then backspace 3x and I'm done. 
+**In Vim**, though, I'm scrolling through the text using the down arrow with my right hand, and scrolling the original PDF pages at the same time with my left hand on the trackpad. I notice the error, my cursor is already in the right spot. I hit A to go to the beginning of the line, then backspace 3x and I'm done. 
 
 I know it seems like not a big difference, but just like playing an instrument or tying your shoes, once you do it a few hundred times muscle memory takes over and you start doing it withought thinking. 
 
