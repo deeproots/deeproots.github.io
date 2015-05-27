@@ -8,4 +8,4 @@ Just as these books are in process, so is this documentation, so please bear tha
 
 As you can see in the navigation on the left, there are overviews of the tools that we use in the editing, as well as step by step tutorials to get you started. And as we check punctuation and correct formatting, may the words on the screen bring us closer to our Savior!
 
-Luke
+*Luke*
