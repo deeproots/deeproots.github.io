@@ -37,15 +37,15 @@ The improvement above is helpful, but alone it's not enough to switch to Vim. Bu
 
 There's this beautiful little file called `.vimrc`, where all your customizations go. I've uploaded my vimrc so that you can use it and have all the same cool shortcuts I've made for editing these books.
 
-For all the Vim customizations it has what's called a **leader key** – mine is comma. It tells vim that there is a shortcut coming. And for this case, I chose to use `j` - it's easy for me to remember because I'm trying to **join** these two paragraphs.
+For this often-used shortcut I chose to use the `j` on my keyboard- it's easy for me to remember because I'm trying to **join** these two paragraphs. So I hit the *leader key* (in my setup it's comma), which lets Vim know there's a shortcut coming next, and then the letter `j`. 
 
-So, back to the example. I'm scrolling along, and I see the error. Oops, those two paragraphs are actually one. As long as the cursor is anywhere in the paragraph, I hit `,j`, and I'm on my way, as best I can time it in about half a second or so. It's so fast almost doesn't break my momentum while I'm scrolling, and requires zero brain power (a good thing!).
+So, back to the example. I'm scrolling along, and I see the error. Oops, those two paragraphs are actually one. As long as the cursor is anywhere in the paragraph, I hit `,j`, and I'm on my way, as best I can time it in about half a second or so. It's so fast, I almost don't break from scrolling, and it requires zero brain power (a good thing!).
 
-Is that amazing or what? When I first discovered these customizations, I spontaneously I broke out in the Doxology! 😉I have shortcuts like these all programmed in for the most common problems you'll find in these books - and if you want to learn the intricacies of Vim, you'll the using them like a boss in no time at all.
+Isn't that amazing? When I first discovered these customizations, I spontaneously I broke out in the Doxology! 😉I have shortcuts like these all programmed in for the most common problems you'll find in these books - and if you want to learn the intricacies of Vim, you'll the using them like a boss in no time at all.
 
 ### Vim Alternatives
 
-If you don't feel like jumping into an entirely new text editor right now, I can completely understand and appreciate that. So here are a few alternatives…
+Now, if you read that, you're eyes glazed over, and you have zero interest in learning *another* new thing right now, I can completely understand and appreciate that. So here are a few alternatives…
 
 As we talked about in the [Introduction to Markdown](/markdown-intro/), Markdown files are nothing more than plain text files. So any plain text editor can edit a `.md` file as well, even something as simple as Notepad on the PC or TextEdit on the Mac (although I would strongly not recommend either of those). The most important feature to look for will be the search - does it highlight well, is it easy to go to the next occurance, or do you have to scroll and find them? If it supports regular expressions, even better - all the ones listed below do. And don't worry if you don't know what regular expressions are - it's just an advanced way of find stuff, I'll have a list of them you can copy and paste.
 
@@ -56,4 +56,4 @@ Here are some great Vim alternative editors that you can considering using:
 -   [Sublime Edit](http://www.sublimetext.com) (Mac, Linux, or Windows) - Free
 -   [Notepad++](http://notepad-plus-plus.org) (Windows) - Free
 
-I hope that is helpful - obviously I'm pretty passionate about the way that Vim has improved my efficiency, but I'm very interested to know what you end up using!
+I hope that is helpful - obviously I'm pretty passionate about the way that Vim has improved my efficiency, but I'm also very interested to know what you end up using!
