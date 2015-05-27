@@ -45,7 +45,7 @@ Isn't that amazing? When I first discovered these customizations, I spontaneousl
 
 ### Vim Alternatives
 
-Now, if you read that, you're eyes glazed over, and you have zero interest in learning *another* new thing right now, I can completely understand and appreciate that. So here are a few alternatives…
+Now, if you read that, your eyes glazed over, you started to nod off, or you you have zero interest in learning *another* new thing right now, I can completely understand and appreciate that. So here are a few more traditional text editors that should get the job done…
 
 As we talked about in the [Introduction to Markdown](/markdown-intro/), Markdown files are nothing more than plain text files. So any plain text editor can edit a `.md` file as well, even something as simple as Notepad on the PC or TextEdit on the Mac (although I would strongly not recommend either of those). The most important feature to look for will be the search - does it highlight well, is it easy to go to the next occurance, or do you have to scroll and find them? If it supports regular expressions, even better - all the ones listed below do. And don't worry if you don't know what regular expressions are - it's just an advanced way of find stuff, I'll have a list of them you can copy and paste.
 
