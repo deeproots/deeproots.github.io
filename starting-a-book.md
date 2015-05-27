@@ -17,7 +17,7 @@ As you can see from the screenshots below, I find it helpful to keep the text fa
 
 ### Chapter Headings
 
-The first thing I do when I get the raw text of a new book is go through it and insert the correct chapter breaks. It doesn't take long, and it makes working through the rest of the book so much easier; if jump in to full blown edit mode without the chapter headings in place, it's easy to get lost in relation to the whole. Then when you need to refer to the originals it can be very frustrating to find your place.
+The first thing I do when I get the raw text of a new book is go through it and insert the correct chapter breaks. It doesn't take long, and it makes working through the rest of the book so much easier; if you jump in to full blown edit mode without the chapter headings in place, it's easy to get lost in relation to the whole. Then when you need to refer to the originals it can be very frustrating to find your place.
 
 The other benefit of inserting the chapter breaks first is getting the "lay of the land" with the book - you get to see how the book progresses, the structure - you know what to expect when you get into full blow proofreading.
 
