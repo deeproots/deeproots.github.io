@@ -15,7 +15,7 @@ As I've gotten more comfortable with it more reasons have emerged, but I'll just
 
 ### 1. Everything is a keyboard shortuct. 
 
-And what's a shortcut – it's a way to your desired destination faster!
+And by definition a shortcut is a way to get to your desired destination **faster!**
 
 When Vim (and it's predecessor, vi) was created, the mouse wasn't around - the keyboard was all there was. And while the mouse (and now trackpad) is great, keyboard shortcuts are still order of magnitude more efficent when multipled times a few thousand times a week.
 
