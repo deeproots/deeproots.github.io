@@ -33,7 +33,7 @@ I know it seems like not a big difference, but just like playing an instrument o
 
 ### 2. It's ridiculously customizable.
 
-The improvement above is helpful, but not enough to start using Vim. But here's the thing: the frequency varies from book to book, but that's one of the more common errors you'll see – it'll happen at least once in almost every book. Rather than typing `A`, then 3 backspaces, I can just create a custom keyboard shortcut to do it for me. 
+The improvement above is helpful, but alone it's not enough to switch to Vim. But here's the thing: the frequency varies from book to book, but that's one of the more common errors you'll see – it'll happen at least once in almost every book. Rather than typing `A`, then 3 backspaces, I can just create a custom keyboard shortcut to do it for me. 
 
 There's this beautiful little file called `.vimrc`, where all your customizations go. I've uploaded my vimrc so that you can use it and have all the same cool shortcuts I've made for editing these books.
 
