@@ -3,7 +3,7 @@ title       : Introduction to Vim
 layout      : page
 permalink   : /vim-intro/
 ---
-To start with, let me just say this: without a doubt, this bit of the editing stack is the least essential and the most controversial, but I decided to include it because it completes the trifecta of tools that I'm using to edit these books faster than I ever thought possible.
+To start with, let me just say this: without a doubt, this bit of the editing stack is the *least essential* and the most controversial, but I decided to include it because it completes the trifecta of tools that I'm using to edit these books faster than I ever thought possible.
 
 The kicker: **the code Vim is based on was written in 1976.** In tech years, that may be older than some of the books in this project!
 
