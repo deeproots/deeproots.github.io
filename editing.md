@@ -17,7 +17,7 @@ I start at the beginning and go through the book, scrolling through the text wit
 
 ### Proper Paragraphs
 
-We want to make sure that the paragraps in the new text match the paragraphs in the old. The easiest way I've found to check the paragraphs is to look at the first and last words of the paragraph as I scroll - if they're not the same, there's a problem! Other clues would be capitalization and spacing errors.
+We want to make sure that the paragraphs in the new text match the paragraphs in the old. The easiest way I've found to check the paragraphs is to look at the first and last words of the paragraph as I scroll - if they're not the same, there's a problem! Other clues would be capitalization and spacing errors.
 
 You might be surprised at the regular occurance of paragraph issues - it's a common problem. Sometimes you might go half a book without any, and then in one chapter there might be 5-6 messed up paragraphs.
 
