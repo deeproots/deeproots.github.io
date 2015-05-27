@@ -1,9 +1,24 @@
 body {
-    font-weight: 400;
     text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7);
 }
 
+p {
+    font-family: adelle;
+    font-style: normal;
+    font-weight: 400;
+}
+
+strong {
+    font-weight: 700;
+}
+
+em {
+    font-style: italic;
+   }
 pre, code {
+    font-family: source-code-pro;
+    font-style: normal;
+    font-weight: 500;
     border: none;
     border-radius: 0;
     background-color: #f9f9f9;
@@ -21,6 +36,9 @@ code {
 #header {
     border-bottom: 1px solid #eee;
     margin-bottom: 20px;
+    font-family: proxima-nova;
+    font-style: normal;
+    font-weight: 700;
 }
 
 #header a:hover {
